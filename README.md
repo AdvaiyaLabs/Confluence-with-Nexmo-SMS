@@ -35,43 +35,43 @@ For example – when any new knowledgebase article is created in XYZ space, the 
 
 2.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image2.png">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image2.png" width=400>
 
 3.  Click on **Upload add-on** in developer tools section as shown in the screenshot below:
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image3.png">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image3.png" width=400>
 
 4.  Click on **Browse** and select the **nexmosms-1.0.jar** file.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.PNG" >
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.PNG" width=400>
 
 5.  Click on **Upload** and the upload process will start.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image5.png">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image5.png" width=400>
 
 6.  On **Installed and ready to go!** screen, click **Close** to continue.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image6.PNG" >
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image6.PNG" width=400>
 
 7.  In the list of installed add-ons, newly installed add-on **Confluence with Nexmo SMS** is available.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image7.PNG">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image7.PNG" width=400>
 
 8.  On Confluence administration screen under the CONFIGURATION section, click on **Nexmo Configuration** option:
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image8.PNG" >
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image8.PNG" width=400>
 
 9.  On the Nexmo configuration page, provide the following inputs:
 
     1.  Nexmo Key and Nexmo Secret.
 
-        <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image9.png" >
+        <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image9.png" width=400>
 
     2.  Click on **Validate.** When the **Nexmo Key** and **Nexmo Secret** validation is done successfully, you will see the remaining additional configuration settings as follows:
 
         1.  Select **From Number** which is used to send messages. (these are virtual numbers you subscribed from Nexmo).
 
-            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image10.png">
+            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image10.png" width=400>
 
         2.  Select specific spaces from **All Spaces** list and click on **Add to list** to move it in **Selected Spaces** list.
 
@@ -79,7 +79,7 @@ For example – when any new knowledgebase article is created in XYZ space, the 
 
         4.  To enable SMS feature, ask your users to add phone numbers in their profile along with the country code.
 
-            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image11.PNG" >
+            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image11.PNG" width=400>
 
 10. To enable Confluence with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
 
@@ -97,7 +97,7 @@ Confluence watchers receive an SMS when a new page is created or the content of 
 
 4.  Click on the space to view its details and click on ***W*atch** to watch the space.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image12.png" >
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image12.png" width=400>
 
 5.  Once users will start watching the configured space, create a new page in the space and save it. Once the page is saved page, space watchers will be notified via SMS.
 
