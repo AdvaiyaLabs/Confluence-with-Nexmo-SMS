@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**Confluence with Nexmo SMS** add-on provides extended notification feature in Confluence (for Confluence Hosted on Server or Data Center options). Confluence users can receive notification on their mobile via SMS. Confluence with Nexmo SMS add-on allows to send page created and content updated notifications via SMS to the watchers of the page and space. Confluence administrator can configure Confluence’s spaces, which require SMS notification and also enable and disable the selected events.
+**Confluence with Nexmo SMS** add-on provides extended notification feature in Confluence (for Confluence Hosted on Server or Data Center options). Confluence users can receive notification on their mobile via SMS. Confluence with [Nexmo SMS](https://www.nexmo.com/sms) add-on allows to send page created and content updated notifications via SMS to the watchers of the page and space. Confluence administrator can configure Confluence’s spaces, which require SMS notification and also enable and disable the selected events.
 
 ## Use case
 
@@ -81,7 +81,7 @@ For example – when any new knowledgebase article is created in XYZ space, the 
 
             <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image11.PNG" width=400>
 
-10. To enable Confluence with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
+10. To enable Confluence with [Nexmo SMS](https://www.nexmo.com/sms) feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
 
 11. Click on **Save** to complete the add-on installation and save all the settings.
 
