@@ -41,7 +41,7 @@ For example – when any new knowledgebase article is created in XYZ space, the 
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image3.png" width=400>
 
-4.  Click on **Browse** and select the **nexmosms-1.0.jar** file.
+4.  Click on **Browse** and select the **Confluence with Nexmo SMS.jar** file.
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.PNG" width=400>
 
