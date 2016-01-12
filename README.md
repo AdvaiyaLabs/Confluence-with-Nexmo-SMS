@@ -42,7 +42,7 @@ Steps to install the Confluence with Nexmo SMS add-on
 1.  Visit the target Git repository using the URL <https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS>
 
 2.  Click on **Download ZIP** as shown in the below image:
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image3.png">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image15.png">
 
 3.  Extract ZIP file.
 
