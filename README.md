@@ -49,7 +49,7 @@ Steps to install the Confluence with Nexmo SMS add-on
 
 5.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.png" width="600">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.PNG" width="600">
 
 6.  Click on **Upload add-on** in developer tools section as shown in the screenshot below:
 
