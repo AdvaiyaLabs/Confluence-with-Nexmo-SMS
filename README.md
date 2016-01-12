@@ -38,44 +38,42 @@ Features
 Steps to install the Confluence with Nexmo SMS add-on
 =====================================================
 
-1.  Visit the target Git repository using the URL <https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS>
+1.  Visit the target Git repository using the [ URL ] (https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/package/Confluence%20with%20Nexmo%20SMS.jar)
 
-2.  Click on **Download ZIP** as shown in the below image:
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image16.png" width="600">
+2.  Click on **Raw** as shown in the below image, add-on's .jar file will get downloaded:
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image16.png" width="200">
 
-3.  Extract ZIP file.
+3.  Login with admin user on Confluence server.
 
-4.  Login with admin user on Confluence server.
-
-5.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
+4.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image4.PNG" width="600">
 
-6.  Click on **Upload add-on** in developer tools section as shown in the screenshot below:
+5.  Click on **Upload add-on** in developer tools section as shown in the screenshot below:
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image5.png" width="600">
 
-7.  Click on **Browse** and select the **Confluence with Nexmo SMS.jar** file.
+6.  Click on **Browse** and select the downloaded **Confluence with Nexmo SMS.jar** file.
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image6.PNG" width="600">
 
-8.  Click on **Upload** and the upload process will start.
+7.  Click on **Upload** and the upload process will start.
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image7.PNG" width="600">
 
-9.  On **Installed and ready to go!** screen, click **Close** to continue.
+8.  On **Installed and ready to go!** screen, click **Close** to continue.
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image8.PNG" width="600">
 
-10. In the list of installed add-ons, newly installed add-on **Confluence with Nexmo SMS** is available.
+9. In the list of installed add-ons, newly installed add-on **Confluence with Nexmo SMS** is available.
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image9.png" width="600">
 
-11. On Confluence administration screen under the CONFIGURATION section, click on **Nexmo Configuration** option:
+10. On Confluence administration screen under the CONFIGURATION section, click on **Nexmo Configuration** option:
 
     <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image10.png" width="600">
 
-12. On the Nexmo configuration page, provide the following inputs:
+11. On the Nexmo configuration page, provide the following inputs:
 
     1.  Nexmo Key and Nexmo Secret.
 
@@ -95,9 +93,9 @@ Steps to install the Confluence with Nexmo SMS add-on
 
             <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image13.png" width="600">
 
-13. To enable Confluence with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
+12. To enable Confluence with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
 
-14. Click on **Save** to complete the add-on installation and save all the settings.
+13. Click on **Save** to complete the add-on installation and save all the settings.
 
 <span id="_Toc432770621" class="anchor"><span id="_Toc439775269" class="anchor"></span></span>Steps to use Confluence with Nexmo SMS add-on
 ===========================================================================================================================================
