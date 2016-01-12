@@ -61,7 +61,7 @@ Steps to install the Confluence with Nexmo SMS add-on
 
 8.  Click on **Upload** and the upload process will start.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image7.png" width="600">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image7.PNG" width="600">
 
 9.  On **Installed and ready to go!** screen, click **Close** to continue.
 
@@ -69,17 +69,17 @@ Steps to install the Confluence with Nexmo SMS add-on
 
 10. In the list of installed add-ons, newly installed add-on **Confluence with Nexmo SMS** is available.
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image9.PNG" width="600">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image9.png" width="600">
 
 11. On Confluence administration screen under the CONFIGURATION section, click on **Nexmo Configuration** option:
 
-    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image10.PNG" width="600">
+    <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image10.png" width="600">
 
 12. On the Nexmo configuration page, provide the following inputs:
 
     1.  Nexmo Key and Nexmo Secret.
 
-        <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image11.png" width="600">
+        <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image11.PNG" width="600">
 
     2.  Click on **Validate.** When the **Nexmo Key** and **Nexmo Secret** validation is done successfully, you will see the remaining additional configuration settings as follows:
 
@@ -93,7 +93,7 @@ Steps to install the Confluence with Nexmo SMS add-on
 
         4.  To enable SMS feature, ask your users to add phone numbers in their profile along with the country code.
 
-            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image13.PNG" width="600">
+            <img src="https://github.com/AdvaiyaLabs/Confluence-with-Nexmo-SMS/blob/master/Docs/image13.png" width="600">
 
 13. To enable Confluence with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Page Events (On Page Create and On Page Update).
 
